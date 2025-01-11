@@ -1,4 +1,4 @@
-module https://github.com/asturur/tcell/v2
+module github.com/asturur/tcell/v2
 
 go 1.12
 
